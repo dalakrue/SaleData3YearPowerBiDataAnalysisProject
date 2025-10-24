@@ -1,4 +1,4 @@
-Thet OO MAung
+Thet Oo Maung
 B.E (Hons) Computer Science and Engineering (2027)
 Aiming for a career in Data Analysis / Data Engineering / Data Science
 🌏 Location: Myanmar
