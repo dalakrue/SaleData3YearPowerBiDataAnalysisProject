@@ -219,10 +219,6 @@ Key fields represented in the report include:
 - Rule-based risk classification
 - Transparent limitations and confidence communication
 
-## Why This Project Is Interview-Ready
-
-Many portfolio dashboards stop at attractive charts. This project demonstrates a more complete professional workflow:
-
 1. **Operational visibility** — what is happening now?
 2. **Strategic analysis** — where are performance differences coming from?
 3. **Executive interpretation** — what matters most?
@@ -232,11 +228,6 @@ Many portfolio dashboards stop at attractive charts. This project demonstrates a
 7. **Action design** — what should the business investigate or prioritize?
 8. **Governance** — what limitations prevent overconfidence?
 
-This makes the project suitable for Data Analyst, Business Intelligence Analyst, Power BI Developer, Junior Data Scientist, and Analytics Intern interviews.
-
-## 60-Second Interview Explanation
-
-> I built this project as a five-level sales decision system rather than a single dashboard. The first three pages support operational, technical, and strategic analysis. The Executive Insights page explains growth, profitability, regional exceptions, product performance, and normalized transaction value. The final page adds a leakage-safe XGBoost forecasting workflow with chronological validation, an untouched test month, comparison against a seasonal-naïve baseline, SHAP explanations, and an 80% uncertainty interval. The model improved WAPE from 22.00% to 16.22%, but I also show the low R² and wide interval so management does not over-trust the point forecast. I then convert the results into opportunity, high-risk, monitor, and stable segments with recommended actions. The main value of the project is that it connects dashboard reporting, machine learning, uncertainty, and business decisions.
 
 ## Important Limitations
 
@@ -265,14 +256,6 @@ Sales_Analytics_Executive_ML_Portfolio/
 ├── Sales_Analytics_Executive_ML_Dashboard.pbix
 └── README.md
 ```
-
-## Suggested Review Path for Interviewers
-
-For a fast review, open the report and focus on:
-
-1. **Executive Insights** — KPI layer, scatterplot, waterfall, normalized comparison, and management findings.
-2. **Predictive Analytics & Recommendations** — forecast metrics, baseline comparison, confidence interval, SHAP drivers, segment flags, recommendations, and caveats.
-3. **Strategic Dashboard** — product profitability and regional sales trends.
 
 ---
 
