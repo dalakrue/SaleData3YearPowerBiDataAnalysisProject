@@ -1,3 +1,9 @@
+<img width="1280" height="736" alt="image" src="https://github.com/user-attachments/assets/c6cc3a1a-e917-441e-a931-9e8f97310834" />
+<img width="1280" height="730" alt="image" src="https://github.com/user-attachments/assets/5bb4cada-643a-4ad0-b6b9-cebf1cca643d" />
+<img width="1280" height="754" alt="image" src="https://github.com/user-attachments/assets/1424cdfe-1a01-48c0-88e8-f8769ef11bd3" />
+<img width="796" height="740" alt="image" src="https://github.com/user-attachments/assets/5599ac27-206f-4eb5-85ac-f1babda68331" />
+<img width="772" height="747" alt="image" src="https://github.com/user-attachments/assets/36b1fad2-772e-4bc8-92ec-13f229afb982" />
+
 # Sales Analytics Executive & Machine Learning Dashboard
 
 > An end-to-end Power BI portfolio project that moves from operational reporting to executive decision support, interpretable machine learning, forecast uncertainty, and segment-level recommendations.
